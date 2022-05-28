@@ -16,9 +16,9 @@
 	std::cin >> input[3];
 
 
-	int power1 = 3;
+	//int power1 = 3;
 	int power2 = 2;
-	int power3 = 1; 
+	//int power3 = 1; 
 	int power4 = 0;
 
 	int zero = pow(power2, power4);
